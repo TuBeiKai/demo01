@@ -5,4 +5,10 @@ public class Demo01 {
         System.out.println("hello");
         System.out.println("误删退回");
     }
+
+    public void run() {
+        System.out.println("ok");
+    }
+
+
 }
